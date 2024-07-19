@@ -1,0 +1,46 @@
+# Ignore PowerShell script compiled files
+*.ps1
+*.psm1
+*.psd1
+
+# Ignore PowerShell data files
+*.ps1xml
+*.pssc
+*.psrc
+
+# Ignore PowerShell test results
+*.TestResults.xml
+
+# Ignore PowerShell module manifest files
+*.psd1
+
+# Ignore PowerShell script module files
+*.psm1
+
+# Ignore user-specific files
+*.user
+*.vspscc
+*.vssscc
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore package management directories
+.nuget/
+packages/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+desktop.ini
