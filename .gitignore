@@ -1,5 +1,4 @@
 # Ignore PowerShell script compiled files
-*.ps1
 *.psm1
 *.psd1
 
