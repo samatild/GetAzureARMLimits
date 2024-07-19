@@ -8,10 +8,10 @@ __The script uses 'Az' Powershell Module as previous AzureRM module is no longer
 The script ensures that the necessary Azure PowerShell module (`Az`) is installed and prompts the user to install it if not present. It also handles authentication and context switching for Azure subscriptions.
 
 ## Improvements
-- [x] Works with Azure Powershell Module 'Az' 
-- [x] Supports Powershell 7.x and later
-- [x] Checks Pre-requisites and prompts user to install if not present
-- [x] Prompts user to select Azure Subscription
+- ✅ Works with Azure Powershell Module 'Az' 
+- ✅ Supports Powershell 7.x and later
+- ✅ Checks Pre-requisites and prompts user to install if not present
+- ✅ Prompts user to select Azure Subscription
 
 ## Prerequisites
 - PowerShell 5.1 or later
